@@ -1,0 +1,17 @@
+examples/PyKinectBodyGame.py,sha256=X1x2taZp174mBH8BcQfrA0VVW-7rKOzCYIzSYqZw8Lg,9128
+examples/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+examples/__pycache__/PyKinectBodyGame.cpython-37.pyc,,
+examples/__pycache__/__init__.cpython-37.pyc,,
+pykinect2-0.1.0.dist-info/DESCRIPTION.rst,sha256=OCTuuN6LcWulhHS3d5rfjdsQtW22n7HENFRh6jC6ego,10
+pykinect2-0.1.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+pykinect2-0.1.0.dist-info/METADATA,sha256=MB4CJMt_KyCw8px54pJNyLG9tVCU5WP0K0S9cV2S3W0,570
+pykinect2-0.1.0.dist-info/RECORD,,
+pykinect2-0.1.0.dist-info/WHEEL,sha256=R7GZBaynU7P7eIwbsGv7F-X8eM9JWO6nKzGDfrA5_lo,97
+pykinect2-0.1.0.dist-info/metadata.json,sha256=pT4s2OwhKlhMUgy6q7Xatr9W1ITMXBlzg-QvE__B-78,742
+pykinect2-0.1.0.dist-info/top_level.txt,sha256=_ZyRyAN-vxGIfMPNVt6gTd9bddNXFl37GAZzbC5ouOU,19
+pykinect2/PyKinectRuntime.py,sha256=Q56XNJ5HUVCZ55ixhdS4mnfx3uWCPLFW0D1IdxMMEp4,19638
+pykinect2/PyKinectV2.py,sha256=UPIJMWJCnXPDqYRIGnRMvJ0jK5May4mn3Y2_Ip5PDuc,110630
+pykinect2/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pykinect2/__pycache__/PyKinectRuntime.cpython-37.pyc,,
+pykinect2/__pycache__/PyKinectV2.cpython-37.pyc,,
+pykinect2/__pycache__/__init__.cpython-37.pyc,,
